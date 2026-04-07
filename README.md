@@ -37,7 +37,8 @@
 - MongoDB
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3)
+- AWS (EC2, S3
+- GCP
 - Docker
 - CI/CD Pipelines
 
@@ -80,7 +81,7 @@
 
 - 📧 Email: mrmnusaif@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-nusaif  
-- 🌐 Portfolio: (Add your link here)
+- 🌐 Portfolio: https://my-portfolio-ruby-rho-14.vercel.app/
 
 ---
 
